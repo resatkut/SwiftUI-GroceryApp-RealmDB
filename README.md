@@ -14,7 +14,8 @@ Grocery App made with SwiftUI and RealmDb
 
 ### HomeScreen and Dark HomeScreen
 
-<img src="https://user-images.githubusercontent.com/113136227/189528188-d042201a-07ee-449a-9bdb-d1b94f7a2368.png"  width=50% height=50%><img src="https://user-images.githubusercontent.com/113136227/189528267-98c3188a-3e78-4a6f-a144-ee488452ca7d.png"  width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/113136227/189528188-d042201a-07ee-449a-9bdb-d1b94f7a2368.png"  width=50% height=50%>,
+<img src="https://user-images.githubusercontent.com/113136227/189528267-98c3188a-3e78-4a6f-a144-ee488452ca7d.png"  width=50% height=50%>
 
 ### AddListScreen and Dark AddListScreen
 
